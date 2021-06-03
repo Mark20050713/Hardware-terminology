@@ -1,0 +1,41 @@
+body{
+	background-color: #B4F9E6;
+	background-image: url(arcade.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: none;
+	font-size: 22px;
+	
+	
+}
+h1{
+	
+	text-align: center;
+	font-family: American Typewriter, serif;
+	font-size: 250px;
+
+	margin-bottom: 100px;
+	color: #eeebea;
+	text-shadow: 30px 30px 20px rgba(0,0,0,0.5);
+	
+	
+}
+h2{
+	text-align: center;
+}
+div{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(248,135,79,0.85);
+	margin-bottom: 50px;
+	padding:25px;
+	line-height: 2em;
+	border: 20px solid rgba(219,222,231,0.8);
+	border-radius: 20px;
+	
+}
+img{
+	float: right;
+	margin-left: 20px;
+}
